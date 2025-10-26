@@ -6,7 +6,7 @@ Fine-tuned pretrained transformers for **binary sentiment** (GLUE/SST-2) using a
 analysis CSV of misclassified validation samples.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/2thleZ/nlp-hw2-sst2-finetune/blob/main/Finetuning.ipynb)
+https://colab.research.google.com/github/2thleZ/fine-tuned-text-classification/main/Finetuning.ipynb)
 
 ## Results
 - **BERT-base-uncased:** val accuracy **0.919** (best epoch ~1)  
