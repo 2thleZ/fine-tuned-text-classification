@@ -1,5 +1,5 @@
 # fine-tuned-text-classification
-# SST-2 Fine-tuning (BERT / DistilBERT)
+### SST-2 Fine-tuning (BERT / DistilBERT)
 
 Fine-tuned pretrained transformers for **binary sentiment** (GLUE/SST-2) using a **custom training loop**
 (AdamW, dynamic padding, gradient clipping, linear LR schedule). Includes learning curves and an error
